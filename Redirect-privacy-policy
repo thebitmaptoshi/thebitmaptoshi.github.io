@@ -1,0 +1,34 @@
+Privacy Policy for BNS-Redirect Extension
+
+Last Updated: August 24, 2025
+
+1. Information Collection and Use
+- This extension does not collect or store any personal information from its users.
+- The only data processed are .bitmap URLs that users explicitly navigate to.
+- It maintains a connection to a public registry (hosted on GitHub) to resolve .bitmap addresses.
+
+2. Data Storage
+- The extension may temporarily cache .bitmap resolution data locally in your browser for performance purposes.
+- No user data is transmitted to external servers except for resolving .bitmap addresses.
+
+3. Third-Party Services
+- The extension interacts with:
+  * GitHub (to fetch the BNS registry)
+  * Ordinals.com (to display resolved content)
+- These interactions are necessary for core functionality.
+- No user data is shared with these services beyond what's necessary for URL resolution.
+
+4. Privacy Rights
+- Users can clear local extension data through Chrome's built-in tools.
+- No personal data is collected, stored, or shared.
+
+5. Updates to Privacy Policy
+- This privacy policy may be updated to reflect changes in functionality or requirements.
+- Users will be notified of significant changes through extension updates.
+
+6. Contact
+For privacy concerns or questions, please submit an issue on the GitHub repository.
+
+7. Transparency
+- The extension is open source.
+- All code and functionality can be reviewed on the GitHub repository.
